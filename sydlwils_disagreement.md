@@ -16,7 +16,7 @@ Reason: Both agreed on No again to keep same format.
 Resolution: ValidatorKept
 
 ## Example 3 — oceandatatools_openvdm (ActivityPattern)
-Author: Irregualr
+Author: Irregular
 Validator: Rising
 Reason: We decided it was more of an irregular pattern. 
 Resolution: AuthorKept
