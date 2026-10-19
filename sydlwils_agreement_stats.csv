@@ -1,0 +1,6 @@
+Field,PercentAgree_Pre,PercentAgree_Post,CohenKappa_Pre,CohenKappa_Post,NumDisagreements,NumResolved,MeanResolutionTime_min,Notes
+HasRecovered,80,80,0.286,1,2,2,NA,Validator's suggestion chosen twice to match format
+WhyRecovered,0,0,NA,NA,10,0,NA,Wording differences; N/A used as adjudicated value as we agreed
+ActivityPattern,80,80,0,1,2,2,NA,Author value used when both matched
+Currentstatus,100,100,,1,0,0,NA,All projects considered active
+RecentThemes,0,0,NA,NA,10,0,NA,Wording differences; N/A used as adjudicated value as we agreed.
