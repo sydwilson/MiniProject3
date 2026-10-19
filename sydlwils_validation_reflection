@@ -1,0 +1,6 @@
+Validation Reflection — sydlwils
+Across the ten projects validated from jzr266, we agreed on most fields. We had a few wording mismatches across HasRecovered where we had simialr thoughts, but we decided to stick to a consistent wording scheme. We matched on all currentStatus fields, and we only disagreed on 2 activityPatterns where we resolved them quickly. The most discussion towards resolution happend for these activity patterns where I may have given small spikes a bit too much credit when it was just an irregular pattern and not necessarlity a revivial of activity. 
+
+Overall, most of the trends were clear enough that we agreed on the status of recovery where some were just bot updates or there was clear evidence no maintainer was watching over the projects anymore. I believe the evidence field encouraged us to actually dig into the data as we made claims on these inactivity periods like the project where there was a huge gap after an intial commit. We may not have been able to make this conclusion at a bird's eye view if we were not required to provide some of this evidence. 
+
+I think the hardest part for me was deciding if small bug fixes count as a recovery which we debated about when discussing some recovery themes. I think that column is subjective as there is a commit numbber or type that establishes a project has "recovered" after a large gap. 
